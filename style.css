@@ -425,15 +425,18 @@ footer img{
         margin: 2%;
         padding: 1%;
 
-    
         width: 94%;
         background-color: rgb(255, 255, 255);
         
     }
+    .containerCanciones a{
+
+        margin-left: 30%;
+    }
     .containerCanciones a img{
         width:40%;
         padding:1%;
-        margin-left: 30%;
+
     }
 
     
