@@ -280,9 +280,8 @@ h2{
 .containerVideo{
     padding: 3%;
     display: flex;
-    flex-flow: row nowrap;
-    justify-content: space-between;
-
+    flex-flow: column wrap;
+    align-items: center;
 
 }
 .video1{
@@ -434,7 +433,7 @@ footer img{
         margin-left: 30%;
     }
     .containerCanciones a img{
-        width:40%;
+        width:70%;
         padding:1%;
 
     }
@@ -467,14 +466,9 @@ footer img{
     .containerVideo{
         display: flex;
         flex-flow: column nowrap;
-
-    }
-    .containerVideo object{
-        align-self: center;
-        padding:1%;
     }
     .video1{
-        align-self: center;
+        
         padding:1%;
     }
     
